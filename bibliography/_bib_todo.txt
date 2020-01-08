@@ -1,0 +1,14 @@
+
+J4. M. Costanzo, G. De Maria, G. Lettera and C. Natale. A multimodal approach to human safety in collaborative robotic workcells. IEEE Transactions on Automation Science and Engineering (T-ASE), 2019. SUBMITTED.
+
+J5. A. Cavallo, M. Costanzo, G. De Maria and C. Natale. Modeling and Slipping Control of a Planar Slider. Automatica, 2019. SUBMITTED.
+
+J6. M. Costanzo, C. Natale, S. Pirozzi, G. Bartels, M. Beetz, A. Maldonado and S. Stelter. Manipulation Planning and Control for Shelf Replenishment. IEEE Robotics and Automation Letters (RA-L) with option for IEEE International Conference on Robotics and Automation (ICRA), 2020. SUBMITTED.
+
+C5. A. Cavallo, M. Costanzo, G. De Maria, C. Natale and S. Pirozzi. Slipping Control Algorithms for Robotic Manipulation. 2019 Automatica.it. Ancona, 2019.
+
+C6. M. Costanzo, G. De Maria, G. Lettera and C. Natale. Grasp Control for Enhancing Dexterity of Parallel Grippers. 2019 IEEE International Conference on Systems, Man, and Cybernetics (SMC). Bari, 2019.
+
+C7. M. Costanzo, G. De Maria, G. Lettera and C. Natale. Grasp Control for Enhancing Dexterity of Parallel Grippers. 2020 IEEE International Conference on Robotics and Automation (ICRA). SUBMITTED.
+
+
